@@ -1,0 +1,10 @@
+{
+    "version": "1.11.3",
+    "repos": "https://github.com/allmarkedup/purl",
+    "protocol":"github:hqlcs/purl",
+    "name": "purl",
+    "main": "purl.js",
+    "dependencies" : [
+    	"jquery"
+    ]
+}
